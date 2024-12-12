@@ -1,0 +1,50 @@
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.exe.config
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.exe
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.pdb
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.AssemblyReference.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Form1.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Properties.Resources.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.GenerateResource.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.exe
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSAC\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.pdb
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.exe.config
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.exe
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.pdb
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.AssemblyReference.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Form1.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Properties.Resources.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.GenerateResource.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.exe
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.pdb
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\ConsultaSACv1.2\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Avancada.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.exe.config
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.exe
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.pdb
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.AssemblyReference.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Avancada.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Form1.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Properties.Resources.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.GenerateResource.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.exe
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.pdb
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Exportar.resources
+C:\Users\rodrigoamorim\Desktop\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Expo.resources
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.exe.config
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.exe
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\bin\Debug\ConsultaSac.pdb
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.AssemblyReference.cache
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Avancada.resources
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Expo.resources
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Exportar.resources
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Form1.resources
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.Properties.Resources.resources
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.GenerateResource.cache
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.csproj.CoreCompileInputs.cache
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.exe
+F:\Users\rodri\Desktop\RD\ProjetoEtiqueta\Consulta SACV3.0\ConsultaSac\ConsultaSac\obj\Debug\ConsultaSac.pdb
